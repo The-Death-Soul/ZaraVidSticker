@@ -1,9 +1,9 @@
 # Project Settings
 
-START = "convert GIFs and Videos to Video Stickers and create their Sticker Packs specific to you!"
+START = "💖convert GIFs and Videos to Video Stickers and create their Sticker Packs specific to you!"
 
 HELP = """
-I can convert GIFs and Videos to Video Stickers. Just send me the sticker and I'll do the rest for you. 
+💞I am Zara & I can convert GIFs and Videos to Video Stickers. Just send me the sticker and I'll do the rest for you. 
 You will get your pack soon as you add a sticker. Send more gif/videos to add stickers in the current pack.
 
 **Features**
@@ -25,7 +25,7 @@ You will get your pack soon as you add a sticker. Send more gif/videos to add st
 
 ABOUT = "convert gifs and videos to video stickers."
 
-REPO = "VideoStickerBot"
+DEVLOPER = "The_Death_Soul"
 
 STARKBOTS = True
 
