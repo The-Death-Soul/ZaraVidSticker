@@ -1,7 +1,7 @@
 {
-  "name": "Video Sticker Bot",
+  "name": "Zara Video Sticker Bot",
   "description": "Telegram bot to convert videos/gifs to video sticker",
-  "logo": "https://telegra.ph/file/183c733fbf8d2dc4351a7.jpg",
+  "logo": "https://te.legra.ph/file/55a981b37bf405bd76fd0.jpg",
   "keywords": [
     "telegram",
     "bot",
@@ -30,7 +30,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/StarkBotsIndustries/",
+  "repository": "https://github.com/The-Death-Soul/ZaraVidSticker",
   "env": {
     "API_ID": {
       "description": "Get this value from my.telegram.org.",
