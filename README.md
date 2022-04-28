@@ -1,4 +1,4 @@
-## [Video Sticker Bot](https://t.me/Video_Sticker_Bot)
+## [Video Sticker Bot](https://t.me/Zara_VidStickerbot)
 
 > A star ⭐ from you means a lot to me !
 
@@ -19,7 +19,7 @@
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StarkBotsIndustries/VideoStickerBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/The-Death-Soul/ZaraVidSticker)
 
 1. Tap on above button and fill values for needed variables
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
@@ -30,7 +30,7 @@
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/StarkBotsIndustries/VideoStickerBot
+   git clone https://github.com/The-Death-Soul/ZaraVidSticker
    ```
 2. Get a DATABASE_URL. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
    
@@ -68,9 +68,9 @@
 
 ## Support
 
-Channel :- [@StarkBots](https://t.me/StarkBots)
+Channel :- [ZaraSupport](https://t.me/ZaraSupport)
 
-Group Chat :- [@StarkBotsChat](https://t.me/StarkBotsChat)
+Group Chat :- [Comrades](https://t.me/Love_Dear_Comrades)
 
 ## :)
 
