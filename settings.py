@@ -27,7 +27,7 @@ ABOUT = "convert gifs and videos to video stickers."
 
 DEVLOPER = "The_Death_Soul"
 
-STARKBOTS = True
+ZaraSupport = True
 
 CUSTOM_USERS_TABLE = True
 
